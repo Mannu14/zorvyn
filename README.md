@@ -34,7 +34,7 @@ A REST API backend for a multi-role finance dashboard. Users interact with finan
 
 ### 1. Clone the repo
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Mannu14/zorvyn
 cd finance-backend
 ```
 
